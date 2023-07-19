@@ -1,0 +1,11 @@
+G:\VB\cal\bin\Debug\cal.exe.config
+G:\VB\cal\bin\Debug\cal.exe
+G:\VB\cal\bin\Debug\cal.pdb
+G:\VB\cal\obj\Debug\cal.csproj.AssemblyReference.cache
+G:\VB\cal\obj\Debug\cal.csproj.SuggestedBindingRedirects.cache
+G:\VB\cal\obj\Debug\cal.Form1.resources
+G:\VB\cal\obj\Debug\cal.Properties.Resources.resources
+G:\VB\cal\obj\Debug\cal.csproj.GenerateResource.cache
+G:\VB\cal\obj\Debug\cal.csproj.CoreCompileInputs.cache
+G:\VB\cal\obj\Debug\cal.exe
+G:\VB\cal\obj\Debug\cal.pdb
